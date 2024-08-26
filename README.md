@@ -2,9 +2,6 @@
 
 
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.x-blue.svg)
-![Django](https://img.shields.io/badge/django-4.x-green.svg)
 
 ## 📖 Project Overview
 
