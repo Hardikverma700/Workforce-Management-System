@@ -21,11 +21,5 @@ The **Workforce-Management-System** is a web application designed to efficiently
 - **Responsive Design:** User-friendly interface with HTML, CSS, and Bootstrap.
 - **Search & Filter:** Quickly find employees using search and filter options.
 
-## 🛠️ Installation & Setup
+### Screenshots 
 
-Follow these steps to get the project up and running on your local machine:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/office-employee-management-system.git
-   cd office-employee-management-system
