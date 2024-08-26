@@ -22,5 +22,5 @@ The **Workforce-Management-System** is a web application designed to efficiently
 - **Search & Filter:** Quickly find employees using search and filter options.
 
 ### Screenshots 
+https://github.com/Hardikverma700/Workforce-Management-System/blob/main/screenshots/Screenshot%20(292).png
 
-![Dashboard Screenshot](screenshots/Screenshot (292).png)
