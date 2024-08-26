@@ -22,5 +22,5 @@ The **Workforce-Management-System** is a web application designed to efficiently
 - **Search & Filter:** Quickly find employees using search and filter options.
 
 ### Screenshots 
-![Tic-Tac-Toe Screenshot]( https://github.com/Hardikverma700/Tic-Tac-Toe-Game/blob/main/Screenshot%20(264).png )
+![Tic-Tac-Toe Screenshot]([ https://github.com/Hardikverma700/Tic-Tac-Toe-Game/blob/main/Screenshot%20(264).png ](https://github.com/Hardikverma700/Workforce-Management-System/blob/main/screenshots/Screenshot%20(292).png))
 
