@@ -23,4 +23,4 @@ The **Workforce-Management-System** is a web application designed to efficiently
 
 ### Screenshots 
 
-screenshots/Screenshot (292).png
+![Dashboard Screenshot](screenshots/Screenshot (292).png)
